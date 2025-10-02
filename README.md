@@ -24,9 +24,11 @@ Java · Spring Boot · Microservices · REST APIs · JWT · MongoDB · MySQL · 
 ---
 
 ## 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=T-nahsin&show_icons=true&locale=en&theme=radical" alt="T-nahsin" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=T-nahsin&show_icons=true&locale=en&theme=radical" alt="T-nahsin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-nahsin&layout=default&theme=radical" alt="Top Languages" /></p>
 ---
 
 ## 📫 Reach Me  
