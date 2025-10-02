@@ -1,20 +1,40 @@
-# Hi there 👋, I'm Nishant Singh
+# 👋 Hey, I’m Nishant Singh
 
-🎓 Final year **BCA Student** | 💻 Passionate **Backend Developer**  
+**Backend Developer | AI/ML Enthusiast | Final Year BCA**
 
-## 🚀 Skills
-- Java, Spring Boot, Microservices, REST APIs  
-- MongoDB, MySQL  
-- JWT Authentication, Swagger, WebClient  
-- React (beginner)  
+---
 
-## 📂 Projects
-- 🎬 [Movie Seat Booking App](https://github.com/T-nahsin/Movie-booking-Application) (Spring Boot + MongoDB)  
-- 🤖 [AI Interview Preparation App](https://github.com/T-nahsin/Interview-App-Microservices) (Microservices + Gemini AI)  
+## 🔍 About Me  
+- 🔧 I build robust backend systems using Java, Spring Boot & Microservices  
+- 🤖 I experiment with AI/ML — building models, integrating APIs, crafting smart solutions  
+- 🎯 I aim for clean, maintainable code combined with scalable architecture  
 
-## 🌱 Currently Learning
-- React.js for frontend development  
-- AI/ML basics for integrating smart features  
+---
 
-## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/nishant-singh-95a15b2a6/) | [LeetCode](https://leetcode.com/T-nahsin) | [Email](nishant16405@gmail.com)
+## 🧰 Tech & Tools  
+Java · Spring Boot · Microservices · REST APIs · JWT · MongoDB · MySQL · Python · ML (scikit‑learn, data processing) · Git · Swagger · WebClient  
+
+---
+
+## 🚀 Projects  
+- **Movie Booking Application** — backend for booking, user auth, movie listings  
+- **AI Interview Prep App** — microservices + Gemini API, question generation, answer evaluation  
+- **Machine Learning Projects** — data modeling, prediction, algorithm experiments  
+
+---
+
+## 📊 GitHub Stats
+![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-nahsin&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T-nahsin&layout=compact&theme=radical)
+
+---
+
+## 📫 Reach Me  
+- Email: yourname@example.com  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nishant-singh-95a15b2a6/)
+- LeetCode: [Leetcode](https://leetcode.com/u/T-nahsin/)
+- Email: [Email](nishant16405@gmail.com)
+
+---
+
+✨ *“From ideas to APIs to intelligence — I code to build, learn, evolve.”*  
