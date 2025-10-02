@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Nishant Singh
 
-**Backend Developer | AI/ML Enthusiast | Final Year BCA**
+**Backend Developer | AI/ML Enthusiast**
 
 ---
 
@@ -24,7 +24,7 @@ Java · Spring Boot · Microservices · REST APIs · JWT · MongoDB · MySQL · 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=T-nahsin&show_icons=true&theme=radical)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=T-nahsin&show_icons=true&locale=en" alt="T-nahsin" /></p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T-nahsin&layout=compact&theme=radical)
 
