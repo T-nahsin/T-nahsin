@@ -24,14 +24,12 @@ Java · Spring Boot · Microservices · REST APIs · JWT · MongoDB · MySQL · 
 ---
 
 ## 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=T-nahsin&show_icons=true&locale=en" alt="T-nahsin" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=T-nahsin&show_icons=true&locale=en&theme=radical" alt="T-nahsin" /></p>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T-nahsin&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Reach Me  
-- Email: yourname@example.com  
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/nishant-singh-95a15b2a6/)
 - LeetCode: [Leetcode](https://leetcode.com/u/T-nahsin/)
 - Email: [Email](nishant16405@gmail.com)
